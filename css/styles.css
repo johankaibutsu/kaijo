@@ -141,6 +141,10 @@ p {
     color:white;
     text-decoration:none;
 }
+.nav-arrow-inverse {
+    color:black;
+    text-decoration:none;
+}
 
 /*step - page 02*/
 #page02 {
@@ -190,11 +194,18 @@ h5 {
 
 /*tour - page 04*/
 #page04 {
-    background-color:black;
+    background-color:rgb(225, 225, 225);
     margin:20px;
-    color:white;
+    color:black;
 }
-
+.date {
+    color: darkgray;
+    margin: 0%;
+}
+.u-text {
+    color: black;
+    margin-left: 100px;
+}
 .tour-img {
     display: block;
     margin-left: auto;
